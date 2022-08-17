@@ -2,6 +2,8 @@
 
 Simple Python script for querying Google Books API for searching books, then printing its info formatted as BibTeX.
 
+Example usage:
+
 ```shell
         [1] Title =
         [2] Author =
