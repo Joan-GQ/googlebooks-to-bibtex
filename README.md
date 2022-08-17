@@ -39,7 +39,10 @@ ISBN =
 [X] Quit
 Which book do I format?
 >> Input: 1
+```
 
+Output:
+```bibtex
 @book{testname,
 author={David Gries},
 title={The Science of Programming},
