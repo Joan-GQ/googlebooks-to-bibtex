@@ -61,9 +61,9 @@ def main():
             else:
                 print()
                 print(
-                    google2bibtex(
-                        volume=response[int_input-1],
-                        entrytype='book', entryname='testname'
+                    google2bibtex(								# TODO: Ask for a entry name
+                        volume=response[int_input-1],			# and for a entry type to 
+                        entrytype='book', entryname='testname'	# properly format the text.
                         )
                     )
 
