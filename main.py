@@ -62,7 +62,7 @@ def main():
                 print()
                 print(
                     google2bibtex(
-                        volume=response[int_input+1],
+                        volume=response[int_input-1],
                         entrytype='book', entryname='testname'
                         )
                     )
